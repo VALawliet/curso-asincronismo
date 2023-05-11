@@ -94,10 +94,10 @@ fetchData(`${API}/products`, (error1, data1)=>{
             console.log(data1[0]);
 
             /* Enseñar el titulo del objeto en la segunda llamada */
-            console.log(data2);
+            console.log(data2.title);
 
             /* Enseñar el nombre del objeto en la tercera llamada */
-            console.log(data3);
+            console.log(data3.name);
         })
     })
 })
