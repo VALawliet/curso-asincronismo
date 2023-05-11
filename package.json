@@ -11,5 +11,8 @@
     "asincronismo"
   ],
   "author": "Víctor Estrada <victorestrada2006@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
